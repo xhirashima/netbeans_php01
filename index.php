@@ -12,6 +12,7 @@ $output = $test + 2;
 echo $output;
 
 echo "test!!";
+echo "test２!!";
 
 //test
 
