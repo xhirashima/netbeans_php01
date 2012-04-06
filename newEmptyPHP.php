@@ -10,5 +10,6 @@ phpinfo();
 //test
 //test2
 //testa
+//testb
 
 ?>
