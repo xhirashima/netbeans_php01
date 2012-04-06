@@ -5,14 +5,8 @@
  * and open the template in the editor.
  */
 
-
-$test = 1;
-$output = $test + 2;
-
-echo $output;
-
+phpinfo();
 
 //test
 
-phpinfo();
 ?>
