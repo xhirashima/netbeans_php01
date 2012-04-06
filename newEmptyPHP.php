@@ -8,5 +8,6 @@
 phpinfo();
 
 //test
+//test2
 
 ?>
